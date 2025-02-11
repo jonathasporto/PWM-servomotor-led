@@ -58,5 +58,5 @@ O projeto pode ser simulado no **Wokwi** para testar seu funcionamento antes da 
 
 ## Video de Funcionamento
 
-[AQUI!]()
+[AQUI!](https://youtu.be/0tezpl9FNQg)
 
